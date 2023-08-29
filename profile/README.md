@@ -1,6 +1,6 @@
 # Welcome to Archsense 👋 
   
-> Unveiling Code's Blueprint, Empowering Developers
+> Unveiling Code's Blueprint, Empowering Code Architects
 
 Archsense is a software architecture visualization tool that aims to improve software development processes 
 by providing accurate and up-to-date architecture representations directly from the source code. 
